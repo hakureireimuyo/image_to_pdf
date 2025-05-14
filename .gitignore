@@ -10,6 +10,6 @@ logs/
 *.pyd
 # 忽略虚拟环境
 venv/
-# 忽略ssh
+# 忽略ssh 
 .ssh/
 

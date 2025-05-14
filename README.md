@@ -144,3 +144,9 @@ python image_to_pdf.py "F:\图片1;F:\图片2" --output "F:\输出目录"
 - torchvision>=0.15.0
 - tqdm>=4.65.0
 - numpy>=1.22.0,<1.28.0
+
+## 许可证
+
+```
+MIT LicenseMIT
+```
