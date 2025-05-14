@@ -1,0 +1,13 @@
+# 忽略所有 .log 文件
+logs/
+# VS Code/Cursor
+.vscode/
+# 忽略所有 .pyc 文件
+*.pyc
+# 忽略所有 .pyo 文件
+*.pyo
+# 忽略所有 .pyd 文件
+*.pyd
+# 忽略虚拟环境
+venv/
+
