@@ -123,7 +123,7 @@ python image_to_pdf.py "F:\图片文件夹" --size A5 --ppi 300
 8. 处理多个目录：
 
 ```bash
-python image_to_pdf.py "F:\图片1;F:\图片2" --output "F:\输出目录"
+python image_to_pdf.py "F:\图片1" "F:\图片2" --output "F:\输出目录"
 ```
 
 ### 注意事项
